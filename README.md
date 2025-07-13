@@ -3,16 +3,12 @@
 **Roboticela** is a technology-driven company on a mission to build smart, scalable, and meaningful software solutions.  
 We believe in the power of innovation, collaboration, and clean code to solve real-world challenges and create digital impact.
 
----
-
 ## 💼 About Us
 
 At Roboticela, we are a team of passionate developers, designers, and technologists dedicated to crafting high-quality digital products.  
 From concept to deployment, we help businesses and communities transform their ideas into reality through thoughtful design and reliable engineering.
 
 We don’t just write code — we build experiences that matter.
-
----
 
 ## 🚀 What We Do
 
@@ -27,7 +23,6 @@ We specialize in delivering modern, user-focused software solutions with real-wo
 
 Every line of code we write is driven by purpose — and backed by experience.
 
----
 
 ## 🤝 Work With Us
 
@@ -40,7 +35,6 @@ We’d love to work with you. Roboticela is always open to partnerships, ideas, 
 
 Let’s create something exceptional — together.
 
----
 
 ## 🌐 Connect With Us
 
@@ -54,7 +48,6 @@ Stay in the loop and follow our journey:
 
 We’re always happy to connect with developers, partners, and tech enthusiasts.
 
----
 
 ## 📂 Explore Our Work
 
@@ -66,7 +59,6 @@ Take a look at our public repositories to discover:
 
 We value clean documentation, community feedback, and open collaboration.
 
----
 
 ## 💡 Our Philosophy
 
@@ -80,7 +72,6 @@ We believe in building software that’s:
 
 At Roboticela, we don’t chase trends. We build the future — one thoughtful project at a time.
 
----
 
 ## 🙌 Let’s Build the Future Together
 
@@ -93,6 +84,5 @@ If you’re passionate about technology and driven to make a difference — we w
 
 **Together, let’s code a better tomorrow.**
 
----
 
 #Roboticela #opensource #innovation #digitalproducts #softwaredevelopment #techforgood #futuretech #collaboration #community
